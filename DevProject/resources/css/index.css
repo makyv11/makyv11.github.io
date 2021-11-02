@@ -1,0 +1,27 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  #paint{
+ background-color: skyblue;
+  }
+   #frames{
+     background-color: lightcoral;
+   }
+   #brushes{
+     background-color: mediumspringgreen;
+   }
+   h2 {
+ font-size: 32px;
+   }
+   #price{
+     color:blue;
+     font-weight: bold;
+   }
+   div{
+     background-size:cover ;
+   }
+   h1{
+     font-size: 100px;
+     text-align: center;
+     color: khaki;
+   }
